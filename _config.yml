@@ -20,7 +20,7 @@ customize:
         twitter: /
         facebook: /
         stack-overflow: /
-        github: https://github.com/ppoffice/hexo-theme-hueman
+        github: https://github.com/huizm
         weibo: /
         rss: /
 
@@ -30,9 +30,9 @@ widgets:
     - recent_posts
     - category
     - archive
-    - tag
-    - tagcloud
-    - links
+    # - tag
+    # - tagcloud
+    # - links
 #    - google_adsense
 
 # Search
@@ -43,7 +43,7 @@ search:
 
 # Comment
 comment:
-    disqus: hexo-theme-hueman # enter disqus shortname here
+    disqus: # enter disqus shortname here
     duoshuo: # enter duoshuo shortname here
     youyan: # enter youyan uid here
     facebook: # enter true to enable
